@@ -1,0 +1,1 @@
+const maxNumber = n => +[...n.toString()].sort((a, b) => b - a).join('')
