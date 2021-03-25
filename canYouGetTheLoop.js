@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/52a89c2ea8ddc5547a000863
 function loop_size(node){
     let turtle = node
     let rabbit = node
